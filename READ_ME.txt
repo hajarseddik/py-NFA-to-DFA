@@ -1,9 +1,6 @@
 ************************Projet GI7 ENSA-kénitra****************
 	-Réalisé par:
 		Seddik Hajar
-		Outaghyame Ghizlane
-	-Encadré par:
-		Pr.Baddi Youssef
 
 **************************INTRO********************************
 le code nfatodfa.py permet la déterminaison d'un automate et sa minimisation tout en se basant sur python3 , avec une interface graphique simple avec Qt4 pour simplifier la procédure de transformation.
@@ -20,4 +17,3 @@ la procédure pour éxecuter le code et afficher l'interface minimaliste:
 	6)utiliset un 'e' pour représenter un epsilon
 
 
-***********Merci pour votre attention, à bientôt.**************
